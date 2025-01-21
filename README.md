@@ -41,7 +41,7 @@ juego-amigo-secreto/
 │   └── app.js        # Lógica del juego
 └── README.md         # Documentación del proyecto
 
----
+
 
 ## 🌟 Contribuciones
 
@@ -61,7 +61,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 ---
 
 ## 👥 Autor
-Contactame  **[Angel Troncoso](https://www.linkedin.com/in/angeltroncoso/)** 
+Contactame: [Angel Troncoso](https://www.linkedin.com/in/angeltroncoso/)
 ¡Gracias por utilizar el juego de Amigo Secreto! 🎁
 
 ---
